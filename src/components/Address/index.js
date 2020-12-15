@@ -23,7 +23,7 @@ export default function Providers() {
                                 Telefone & WhatsApp
                                 </Typography>
                             <Typography variant="body1" component="p">
-                                (13)98180-1237
+                                (13) 98180-1237
                                 </Typography>
                         </div>
                         <div>
