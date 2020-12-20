@@ -184,7 +184,7 @@ export default function Home() {
                         </div>
                         <div>
                            <Typography variant="h6" component="h2">Drinks</Typography>
-                           <Typography variant="body1">Caipiirinha de Vodka, Caiprinha de Cachaça, Dreher com mel e limão, hi-Fi, Gin</Typography>
+                           <Typography variant="body1">Caipirinha de Vodka, Caipirinha de Cachaça, Dreher com mel e limão, hi-Fi, Gin</Typography>
                         </div>
                      </MenuItem>
                   </MenuHome>

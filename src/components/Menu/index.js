@@ -100,7 +100,7 @@ export default function Home() {
                   <ul>
                      <li>Skol (Lata)</li>
                      <li>Petra (Lata)</li>
-                     <li> império (Lata)</li>
+                     <li>Império (Lata)</li>
                      <li>Amstel (Lata)</li>
                      <li>Itaipava (Lata)</li>
                      <li>Heineken (LONG-NECK)</li>
@@ -118,14 +118,13 @@ export default function Home() {
                   </Typography>
                   </TitleImageMenu>
                   <ul>
-                     <li>Skol (Lata)</li>
-                     <li>Petra (Lata)</li>
-                     <li> império (Lata)</li>
-                     <li>Amstel (Lata)</li>
-                     <li>Itaipava (Lata)</li>
-                     <li>Heineken (LONG-NECK)</li>
-                     <li>Stella Artois (LONG-NECK)</li>
-                     <li>BUDWEISER LONG-NECK</li>
+                     <li>Hi-Fi & Gin</li>
+                     <li>Batida Limão</li>
+                     <li>Batida Amendoin</li>
+                     <li>Batida Maracujá</li>
+                     <li>Caipirinha de Vodka</li>
+                     <li>Caipirinha de cachaça</li>
+                     <li>Dreher com mel e limão</li>
                   </ul>
                </InfosMenu>
             </ItemMenu>
@@ -138,14 +137,12 @@ export default function Home() {
                   </Typography>
                   </TitleImageMenu>
                   <ul>
-                     <li>Skol (Lata)</li>
-                     <li>Petra (Lata)</li>
-                     <li> império (Lata)</li>
-                     <li>Amstel (Lata)</li>
-                     <li>Itaipava (Lata)</li>
-                     <li>Heineken (LONG-NECK)</li>
-                     <li>Stella Artois (LONG-NECK)</li>
-                     <li>BUDWEISER LONG-NECK</li>
+                     <li>Coca-cola </li>
+                     <li>Guaraná</li>
+                     <li>Soda</li>
+                     <li>Fanta</li>
+                     <li>Água</li>
+                     <li>Sucos</li> 
                   </ul>
                </InfosMenu>
             </ItemMenu>
@@ -158,14 +155,12 @@ export default function Home() {
                   </Typography>
                   </TitleImageMenu>
                   <ul>
-                     <li>Skol (Lata)</li>
-                     <li>Petra (Lata)</li>
-                     <li> império (Lata)</li>
-                     <li>Amstel (Lata)</li>
-                     <li>Itaipava (Lata)</li>
-                     <li>Heineken (LONG-NECK)</li>
-                     <li>Stella Artois (LONG-NECK)</li>
-                     <li>BUDWEISER LONG-NECK</li>
+                     <li>Carne</li>
+                     <li>Frango</li>
+                     <li>Linguiça</li>
+                     <li>Coração</li>
+                     <li>Pão de Alho</li>
+                     <li>queijo Coalho</li>
                   </ul>
                </InfosMenu>
             </ItemMenu>
