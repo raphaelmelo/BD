@@ -70,10 +70,11 @@ const InfosMenu = Styled.div`
    display:flex;
    flex-direction:column;
    gap:10px;
-   ul {
+    ul {
       list-style:none;
    }
    li {
+      width:280px;
       font-family: Roboto;
       font-size: 18px;
       text-transform: uppercase;
